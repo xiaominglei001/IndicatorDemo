@@ -10,7 +10,7 @@ import android.util.Log;
 public class Test1 extends Activity {
 
     public void Test(){
-        Log.v("Heoo","ddddeddddddeddddddde66666666666666666666");
+        Log.v("Heoo","ddddeddddddeddddddde66666666666666666666888");
     }
 
 }
