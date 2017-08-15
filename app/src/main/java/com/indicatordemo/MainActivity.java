@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.e("111", "测试---------------");
         Log.e("111", "测试-----------333----");
+        Log.e("111", "测试-----------444444444444----");
         ll = (LinearLayout) findViewById(R.id.ll);
         vp.setOnPageChangeListener(new ViewPagerIndicator(this, vp, ll, 3));
     }
